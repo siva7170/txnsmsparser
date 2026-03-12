@@ -2,6 +2,12 @@
 
 A library to parse transaction SMS messages
 
+## Gradle 
+
+```gradle
+implementation("in.depthshow:txnsmsparser:1.0.1")
+```
+
 ## Example 1
 
 ```java

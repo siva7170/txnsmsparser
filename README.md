@@ -20,7 +20,6 @@ if(isValid){
 else{
     // Invalid transaction message
 }
-//
 ```
 
 ## Example 2

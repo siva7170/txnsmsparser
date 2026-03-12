@@ -10,7 +10,7 @@ plugins {
 // ── Publication info ──────────────────────────────────────────────
 val publishGroupId    = "in.depthshow"    // ← change this
 val publishArtifactId = "txnsmsparser"              // ← change this
-val publishVersion    = "1.0.0"                     // ← change this
+val publishVersion    = "1.0.1"                     // ← change this
 
 android {
     namespace = "in.depthshow.txnsmsparser"
